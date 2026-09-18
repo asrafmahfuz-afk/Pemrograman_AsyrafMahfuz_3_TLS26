@@ -6,7 +6,7 @@ Kelompok: Opal
 Repository ini berisi hasil pengerjaan challenge Pemrograman Dasar TLS 2026.
 
 ## Isi
-1. `Fase_1_Asyraf_ahfuz_Opal.pdf`
+1. `Fase_1_Asyraf_mahfuz_Opal.pdf`
    - Pseudocode: The Last Astronaut
    - Flowchart: Alien-In-The-Middle
    - Penjelasan logika untuk masing-masing problem
